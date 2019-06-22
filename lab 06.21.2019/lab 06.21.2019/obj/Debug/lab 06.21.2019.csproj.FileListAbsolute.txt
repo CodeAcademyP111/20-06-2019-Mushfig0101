@@ -1,0 +1,7 @@
+C:\Users\Code\source\repos\lab 06.21.2019\lab 06.21.2019\bin\Debug\lab 06.21.2019.exe.config
+C:\Users\Code\source\repos\lab 06.21.2019\lab 06.21.2019\bin\Debug\lab 06.21.2019.exe
+C:\Users\Code\source\repos\lab 06.21.2019\lab 06.21.2019\bin\Debug\lab 06.21.2019.pdb
+C:\Users\Code\source\repos\lab 06.21.2019\lab 06.21.2019\obj\Debug\lab 06.21.2019.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\lab 06.21.2019\lab 06.21.2019\obj\Debug\lab 06.21.2019.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\lab 06.21.2019\lab 06.21.2019\obj\Debug\lab 06.21.2019.exe
+C:\Users\Code\source\repos\lab 06.21.2019\lab 06.21.2019\obj\Debug\lab 06.21.2019.pdb
